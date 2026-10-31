@@ -7,7 +7,7 @@
 
 ## 👤 Información del Estudiante
 - **Nombre Completo:** Miguel Angel Villamil Ortiz
-- **Código:** 1014864905<img width="784" height="1598" alt="1" src="https://github.com/user-attachments/assets/4d976db5-742d-43fe-b522-6d2444ee629a" />
+- **Código:** 1014864905
 
 
 ---
